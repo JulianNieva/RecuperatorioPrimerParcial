@@ -65,7 +65,7 @@ void MostrarServicios(eServicio[],int);
  *
  * @param servicio Servicio recibido y que sera mostrado
  */
-void MostrarUnServicio(eServicio,int);
+void MostrarUnServicio(eServicio);
 
 /**
  * @fn eServicio DameUnServicio(eServicio[], int)
